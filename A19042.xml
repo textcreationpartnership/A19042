@@ -945,7 +945,10 @@ wherof my ſuſter Beliſa of whome I haue tolde the alredy, conſyderynge my pa
          </div>
          <div type="part">
             <head>¶ Belyſa to Lucenda.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:9414:36"/>
+               <figure/>
+            </p>
             <p>I Pray the Lucenda that in vſyng thyne accoſtomyd wyſ<g ref="char:EOLhyphen"/>dome wyll not to blame me, for that whiche I wyll tell y<hi rend="sup">e</hi>. For yf thou co<g ref="char:cmbAbbrStroke">̄</g>
                <g ref="char:EOLhyphen"/>pr<gap reason="illegible" resp="#APEX" extent="1 letter">
                   <desc>•</desc>
@@ -1014,7 +1017,10 @@ wyll. Therfore co<g ref="char:cmbAbbrStroke">̄</g>ſent not that ſuche fydely<
                <gap reason="illegible" resp="#APEX" extent="1 letter">
                   <desc>•</desc>
                </gap>o Belyſa.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:9414:38"/>
+               <figure/>
+            </p>
             <p>Dere frende beliſa I pray the put from y<hi rend="sup">•</hi>, the doubte that thou haſte to receyue blame, for that whiche thou haſt ſayd. For thou ha<gap reason="illegible" resp="#APEX" extent="2 letters">
                   <desc>••</desc>
                </gap> not put thyne honour in ſomuche pa<g ref="char:EOLhyphen"/>rell,
@@ -1447,9 +1453,12 @@ made me, whiche ar that thou ſhalte vnyuerſally publyſſhe, and cauſe the da
          <div type="colophon">
             <p>¶ Imprynted by me Robert wyer / dwellynge in ſeynt Martyns pa<g ref="char:EOLhyphen"/>ryſſhe at Cha<g ref="char:EOLhyphen"/>ryng Croſſe.</p>
             <p>¶ Cum priuilegio / ad im<g ref="char:EOLhyphen"/>primendum ſolum.</p>
-            <figure>
-               <p>ROBERT WYER.</p>
-            </figure>
+            <p>
+               <pb facs="tcp:9414:69" rendition="simple:additions"/>
+               <figure>
+                  <p>ROBERT WYER.</p>
+               </figure>
+            </p>
             <pb facs="tcp:9414:69" rendition="simple:additions"/>
          </div>
       </back>
